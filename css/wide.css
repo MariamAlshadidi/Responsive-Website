@@ -1,0 +1,10 @@
+#programs .boxses .box {
+    display: flex;
+    text-align: left;
+}
+#programs .boxses .box img {
+    align-self: center;
+    margin-right: 0.5rem;
+    height: 80px;
+    width: 100px;
+}
